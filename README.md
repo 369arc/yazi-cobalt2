@@ -36,7 +36,7 @@ With this theme, **file navigation and code viewing** become visually consistent
 1.  **Clone the repository** into your Yazi flavors folder:
 
     ```bash
-    git clone [https://github.com/369arc/yazi-cobalt2.git](https://github.com/369arc/yazi-cobalt2.git) ~/.config/yazi/flavors/cobalt2.yazi
+    git clone https://github.com/369arc/yazi-cobalt2.git ~/.config/yazi/flavors/cobalt2.yazi
     ```
 
 2.  Verify the folder structure:
