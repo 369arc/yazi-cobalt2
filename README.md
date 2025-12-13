@@ -28,7 +28,7 @@ This theme brings the iconic Cobalt2 colors to Yazi's interface and code preview
 1. **Clone the repository** into your Yazi flavors folder:
 
 ```bash
-git clone https://github.com/<your-username>/yazi-cobalt2.git ~/.config/yazi/flavors/cobalt2.yazi
+git clone https://github.com/369arc/yazi-cobalt2.git ~/.config/yazi/flavors/cobalt2.yazi
 
 
 cobalt2.yazi/
