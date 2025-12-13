@@ -37,10 +37,10 @@ cobalt2.yazi/
 └── tmtheme.xml   # Syntax highlighting for preview pane
 
 
-## 🙏 Credits
+🙏 Credits
 
 A big thank you to:
 - 👤 [Wes Bos](https://wesbos.com/cobalt2) — Original Cobalt2 color palette
-- 💻 [Yazi file manager](https://github.com/<yazi-repo>) — Theme platform
+- 💻 [Yazi file manager](https://github.com/sxyazi/yazi) — Theme platform
 
 
