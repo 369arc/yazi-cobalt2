@@ -1,7 +1,16 @@
-# Cobalt2 for Yazi
+# 🎨 Cobalt2 for 📂 Yazi 
 
-A faithful port of **Wes Bos' Cobalt2 color scheme** for the **Yazi file manager**.  
-This theme brings the iconic Cobalt2 colors to Yazi's interface and code preview, making file navigation and code viewing visually consistent and vibrant.
+✨ **A faithful port of Wes Bos' iconic Cobalt2 color scheme** for the **Yazi file manager**.  
+
+This theme brings the **vibrant, high-contrast Cobalt2 colors** to:
+
+- 🗂 **Yazi’s interface** – file manager panes, tabs, status bars, headers, and footers  
+- 💻 **Code preview** – syntax highlighting for comments, keywords, strings, functions, variables, numbers, and more  
+
+With this theme, **file navigation and code viewing** become visually consistent, striking, and easy on the eyes.  
+
+> Perfect for users who love **dark-themed, high-contrast environments** and want a modern, colorful terminal experience.
+
 
 ---
 
