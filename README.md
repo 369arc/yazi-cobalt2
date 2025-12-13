@@ -37,7 +37,6 @@ cobalt2.yazi/
 └── tmtheme.xml   # Syntax highlighting for preview pane
 
 
-## 🙏 Credits
 
 A big thank you to:
 - 👦🏼 [Wes Bos](https://wesbos.com/cobalt2) — Original Cobalt2 color palette
