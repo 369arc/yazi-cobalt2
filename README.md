@@ -48,8 +48,7 @@ cobalt2.yazi/
 
 📸 Screenshot
 
-    [Cobalt2 Yazi Flavor](https://github.com/369arc/yazi-cobalt2/blob/main/preview.png)
-
+Cobalt2 Yazi Flavor 
 
 🎨 Credits
 
