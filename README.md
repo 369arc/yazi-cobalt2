@@ -48,7 +48,7 @@ cobalt2.yazi/
 
 📸 Screenshot
 
-    (Replace this with your actual screenshot file in the repo)
+    https://github.com/369arc/yazi-cobalt2/edit/main/preview.png
 
 🎨 Credits
 
