@@ -30,7 +30,17 @@ This theme brings the iconic Cobalt2 colors to Yazi's interface and code preview
 ```bash
 git clone https://github.com/369arc/yazi-cobalt2.git ~/.config/yazi/flavors/cobalt2.yazi
 
+---
 
 cobalt2.yazi/
 ├── flavor.toml   # UI colors and settings
 └── tmtheme.xml   # Syntax highlighting for preview pane
+
+
+## 🙏 Credits
+
+A big thank you to:
+- 👤 [Wes Bos](https://wesbos.com/cobalt2) — Original Cobalt2 color palette
+- 💻 [Yazi file manager](https://github.com/<yazi-repo>) — Theme platform
+
+
