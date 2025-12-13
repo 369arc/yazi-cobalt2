@@ -48,7 +48,7 @@ cobalt2.yazi/
 
 📸 Screenshot
 
-Cobalt2 Yazi Flavor https://github.com/369arc/yazi-cobalt2/blob/main/preview.png
+[![Cobalt2 Yazi Flavor](https://github.com/369arc/yazi-cobalt2/blob/main/preview.png)]
 
 🎨 Credits
 
@@ -69,3 +69,14 @@ A big thank you to:
 This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License
 .
 You may share and adapt this theme for non-commercial purposes only, and must give appropriate credit to Wes Bos and Yazi.
+
+---
+
+## ☕ Support the Author
+
+If you enjoy this theme and want to support my work, you can **buy me a coffee** on [Ko-fi](https://ko-fi.com/369arc)!  
+
+[![Buy Me a Coffee](https://cdn.ko-fi.com/cdn/kofi3.png)](https://ko-fi.com/369arc)
+
+Your support helps me maintain this theme and create more Yazi flavors for the community. Thank you! 🙏
+
