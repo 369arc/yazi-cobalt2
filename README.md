@@ -1,4 +1,4 @@
-# Cobalt2 for Yazi 
+# 🎨 Cobalt2 for Yazi
 
 ✨ **A faithful port of Wes Bos' iconic Cobalt2 color scheme** for the **Yazi file manager**.  
 
@@ -10,7 +10,6 @@ This theme brings the **vibrant, high-contrast Cobalt2 colors** to:
 With this theme, **file navigation and code viewing** become visually consistent, striking, and easy on the eyes.  
 
 > Perfect for users who love **dark-themed, high-contrast environments** and want a modern, colorful terminal experience.
-
 
 ---
 
@@ -39,16 +38,34 @@ With this theme, **file navigation and code viewing** become visually consistent
 ```bash
 git clone https://github.com/369arc/yazi-cobalt2.git ~/.config/yazi/flavors/cobalt2.yazi
 
----
+    Verify folder structure:
 
 cobalt2.yazi/
 ├── flavor.toml   # UI colors and settings
 └── tmtheme.xml   # Syntax highlighting for preview pane
 
+    Open Yazi. The theme should now be available in your flavor selection.
+
+📸 Screenshot
+
+    (Replace this with your actual screenshot file in the repo)
+
+🎨 Credits
 
 A big thank you to:
-- 👦🏼 [Wes Bos](https://wesbos.com/cobalt2) — Original Cobalt2 color palette
-- 💻 [Yazi file manager](https://github.com/sxyazi/yazi) — Theme platform
 
+    👦🏼 Wes Bos
 
-> 📝 This theme was created for the Yazi community. If you enjoy it, feel free to share or submit feedback!
+— Original Cobalt2 color palette
+
+💻 Yazi file manager
+
+    — Theme platform
+
+    📝 This theme was created for the Yazi community. If you enjoy it, feel free to share or submit feedback!
+
+⚖️ License
+
+This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License
+.
+You may share and adapt this theme for non-commercial purposes only, and must give appropriate credit to Wes Bos and Yazi.
