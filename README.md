@@ -1,4 +1,4 @@
-# 🎨 Cobalt2 for 📂 Yazi 
+# Cobalt2 for Yazi 
 
 ✨ **A faithful port of Wes Bos' iconic Cobalt2 color scheme** for the **Yazi file manager**.  
 
