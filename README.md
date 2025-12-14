@@ -13,7 +13,7 @@ With this theme, **file navigation and code viewing** become visually consistent
 
 ---
 
-## 🎨 Features
+## 🛠️ Features
 
 * **True Cobalt2 colors** for all UI components:
     * Manager panes
@@ -31,7 +31,7 @@ With this theme, **file navigation and code viewing** become visually consistent
 
 ---
 
-## 📂 Installation
+## ⬇️ Installation
 
 1.  **Clone the repository** into your Yazi flavors folder:
 
@@ -58,7 +58,7 @@ With this theme, **file navigation and code viewing** become visually consistent
 
 ---
 
-## 📸 Screenshot
+## 🖼️ Screenshot
 
 **[Click here to view the full resolution preview]**
 
@@ -71,11 +71,11 @@ With this theme, **file navigation and code viewing** become visually consistent
 A big thank you to:
 
 * 👦🏼 **Wes Bos** — For the original Cobalt2 color palette.
-* 💻 **Yazi file manager** — For the excellent theme platform.
+* 📂 **Yazi file manager** — For the excellent theme platform.
 
-📝 This theme was created for the Yazi community. If you enjoy it, feel free to share or submit feedback!
+✍️ This theme was created for the Yazi community. If you enjoy it, feel free to share or submit feedback!
 
-## ⚖️ License
+## 📜 License
 
 This work is released under the **MIT License**.
 
@@ -83,7 +83,7 @@ The MIT License is a permissive license that is compatible with the licenses use
 
 ---
 
-## ☕ Support the Author
+## 💖 Support the Author
 
 If you enjoy this theme and want to support my work, you can **buy me a coffee** on [Ko-fi](https://ko-fi.com/369arc)!
 
