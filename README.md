@@ -66,7 +66,7 @@ With this theme, **file navigation and code viewing** become visually consistent
 
 ---
 
-## 🎨 Credits
+## 🌟 Credits
 
 A big thank you to:
 
