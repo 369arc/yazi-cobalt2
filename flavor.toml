@@ -2,6 +2,9 @@
 # Cobalt2 Yazi Flavor (Final, Community-Ready)
 # ==============================================================================
 
+[flavor]
+dark = "cobalt2"
+
 [mgr]
 bg = "#132738"
 fg = "#ffffff"
